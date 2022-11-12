@@ -1,2 +1,3 @@
-# discord-v14-turkce-altyapi
-Discord V14 İçin Türkçe Altyapı Hazırladım
+Sizler için Discord V14 SlashCommand'lı bot Altyapısı oluşturdum.
+Herhangi bir sorun veya hata ile karşılaşırsanız discord sunucumdan bana ulaşabilirsiniz
+https://discord.gg/WSS9XwmSyP
