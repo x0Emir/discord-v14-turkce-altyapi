@@ -1,6 +1,5 @@
 Sizler için Discord V14 SlashCommand'lı bot Altyapısı oluşturdum.
-Herhangi bir sorun veya hata ile karşılaşırsanız discord sunucumdan bana ulaşabilirsiniz
-[Tıkla](https://discord.gg/WSS9XwmSyP)
+Herhangi bir sorun veya hata ile karşılaşırsanız [discord sunucumuza](https://discord.gg/WSS9XwmSyP) gelebilirsiniz.
 
 Botu kurmak için 
 * Adım 1 : powershell'i aç
