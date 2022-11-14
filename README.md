@@ -1,10 +1,9 @@
 Sizler için Discord V14 SlashCommand'lı bot Altyapısı oluşturdum.
 Herhangi bir sorun veya hata ile karşılaşırsanız [discord sunucumuza](https://discord.gg/WSS9XwmSyP) gelebilirsiniz.
 
-Botu kurmak için 
-* Adım 1 : powershell'i aç
-* Adım 2 : npm init yazın ve botunuzu oluşturun.
-* Adım 3 : npm i discord.js yazın entere basın
-* Adım 4 : npm i fs yazın entere basın
+* Bot kurmayı bilmeyenler için :
+* [Discord sunucumuza](https://discord.gg/WSS9XwmSyP) Gelip v14altyapı-sss kanalına bakabilirisniz. Detaylı anlatımı orda mevcut.
 
-Artık botunuz hazır!!
+
+* Bot kurmayı bilenler için kullandığım modüller :
+* npm i discord.js npm i fs
